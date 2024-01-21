@@ -2,56 +2,34 @@
  
 # Tailwind Gradient Generator
 
-![Tailwind Gradiente Generator Banner](public/banner.png)
-Link: [Tailwind Gradient Generator](https://tailwind-gradient-generator.vercel.app/)
+<!-- ! -->
+🌈 Tailwind Gradient Color Tool 🎨
 
-</div>
+Deskripsi Proyek:
 
-## Donations
+Selamat datang di Tailwind Gradient Color Tool, sebuah pengalaman penuh warna untuk menciptakan gradasi menakjubkan dengan mudah menggunakan Tailwind CSS. Dikembangkan oleh Aidyl Syaputra, seorang siswa berumur 17 tahun yang tengah mengejar impian di Rekayasa Perangkat Lunak (RPL) di SMKN 1 Maros.
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/roberth.gonz)
+✨ Fitur Utama:
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+Pemilihan Mudah: Nikmati antarmuka yang intuitif untuk memilih kombinasi warna dengan cepat dan menyenangkan.
+Kode Tailwind Otomatis: Hemat waktu dengan kode CSS Tailwind yang dihasilkan secara otomatis untuk integrasi langsung ke dalam proyek Anda.
+Pratinjau Langsung: Lihat langsung bagaimana kombinasi warna yang dipilih merubah tampilan desain Anda.
+🚀 Cara Menggunakan:
 
-Feel free to collaborate.
+Pilih warna awal dan akhir dengan mudah menggunakan antarmuka yang stylish.
+Salin kode Tailwind yang dibuat dan terapkan pada proyek Tailwind CSS Anda.
+Saksikan desain Anda bersinar dengan gradasi warna yang menawan!
+🤝 Cara Berkontribusi:
+Kami mengundang Anda untuk berkontribusi dengan memberikan umpan balik, melaporkan bug, atau membuat perubahan melalui pull request. Kolaborasi Anda membantu memperkaya alat ini.
 
-## Contributing
+🎉 Tentang Pengembang:
 
-Are you interested in contributing to the project? Thank you very much for your interest. We are always looking for improvements to the project and contributions from open source developers are greatly appreciated. If you have a contribution in mind, please see our [Contribution Guide](/CONTRIBUTING.md) for information on how to do so.
+Nama: Aidyl Syaputra
+Usia: 17 tahun
+Siswa di: SMKN 1 Maros, Jurusan Rekayasa Perangkat Lunak (RPL)
+Terima kasih telah memilih Tailwind Gradient Color Tool! Semoga alat ini membawa keceriaan dalam pengembangan desain Anda dan membantu Anda menciptakan tampilan yang luar biasa dengan sentuhan warna yang unik.
 
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://zentreax.dev/"><img src="https://avatars3.githubusercontent.com/u/36458019?v=4?s=100" width="100px;" alt="Zentreaxᴰᵉᵛ"/><br /><sub><b>Zentreaxᴰᵉᵛ</b></sub></a><br /><a href="#a11y-Zentreax" title="Accessibility">️️️️♿️</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/keithmchd48"><img src="https://avatars0.githubusercontent.com/u/29048050?v=4?s=100" width="100px;" alt="Keith Machado"/><br /><sub><b>Keith Machado</b></sub></a><br /><a href="https://github.com/roberthgnz/tailwind-gradient-generator/commits?author=keithmchd48" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/victor-arnedo-blanco/"><img src="https://avatars1.githubusercontent.com/u/52747851?v=4?s=100" width="100px;" alt="Victor"/><br /><sub><b>Victor</b></sub></a><br /><a href="https://github.com/roberthgnz/tailwind-gradient-generator/commits?author=varnebla" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://cesaralvarez.js.org/"><img src="https://avatars.githubusercontent.com/u/57325703?v=4?s=100" width="100px;" alt="César Álvarez Llaneza"/><br /><sub><b>César Álvarez Llaneza</b></sub></a><br /><a href="https://github.com/roberthgnz/tailwind-gradient-generator/commits?author=cesaralvrz" title="Documentation">📖</a> <a href="#design-cesaralvrz" title="Design">🎨</a> <a href="https://github.com/roberthgnz/tailwind-gradient-generator/commits?author=cesaralvrz" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/JasonFritsche"><img src="https://avatars.githubusercontent.com/u/34847680?v=4?s=100" width="100px;" alt="Jason Fritsche"/><br /><sub><b>Jason Fritsche</b></sub></a><br /><a href="https://github.com/roberthgnz/tailwind-gradient-generator/commits?author=JasonFritsche" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/amimaro"><img src="https://avatars.githubusercontent.com/u/6666978?v=4?s=100" width="100px;" alt="Amir Zahlan"/><br /><sub><b>Amir Zahlan</b></sub></a><br /><a href="https://github.com/roberthgnz/tailwind-gradient-generator/commits?author=amimaro" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://pantelis.theodosiou.me/"><img src="https://avatars.githubusercontent.com/u/33872406?v=4?s=100" width="100px;" alt="Pantelis Theodosiou"/><br /><sub><b>Pantelis Theodosiou</b></sub></a><br /><a href="https://github.com/roberthgnz/tailwind-gradient-generator/commits?author=ThPadelis" title="Code">💻</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://raul-aguilar.netlify.app/"><img src="https://avatars.githubusercontent.com/u/77344353?v=4?s=100" width="100px;" alt="Raúl Aguilar"/><br /><sub><b>Raúl Aguilar</b></sub></a><br /><a href="https://github.com/roberthgnz/tailwind-gradient-generator/commits?author=raulwwq0" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/sajidul-kabir-748b57211/"><img src="https://avatars.githubusercontent.com/u/53114757?v=4?s=100" width="100px;" alt="Sajidul kabir"/><br /><sub><b>Sajidul kabir</b></sub></a><br /><a href="https://github.com/roberthgnz/tailwind-gradient-generator/commits?author=sajidul-kabir" title="Code">💻</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+🌟 Selamat berkreativitas! 🌈
 
 ### Thanks ❤️
 

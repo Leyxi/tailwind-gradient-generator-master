@@ -61,7 +61,7 @@ const toggleTheme = () => {
                 <li>
                     <a
                         aria-label="GitHub Respository"
-                        href="https://github.com/roberthgnz/tailwind-gradient-generator"
+                        href="https://github.com/Leyxi/tailwind-gradient-generator-master"
                         target="_blank"
                         rel="noopener noreferrer"
                     >

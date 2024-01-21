@@ -8,7 +8,7 @@ const year = new Date().getFullYear()
     >
         <p>
             Made with ☕ and 💖 by
-            <a href="https://twitter.com/roberthgnz" target="_blank" rel="noopener noreferrer">Roberth González</a>
+            <a href="https://www.instagram.com/_101leyyx/" target="_blank" rel="noopener noreferrer">Aidyl Syaputra</a>
         </p>
         <p>Copyright © {{ year }} Tailwind Gradient Generator</p>
     </footer>
